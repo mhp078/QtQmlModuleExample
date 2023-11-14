@@ -5,7 +5,7 @@ In this example, we use qml modules in another project.
 
 Cmake is used in this library.
 
-[MyModule Project](#mymodule-project) \
+[MyModule Folder](#mymodule-folder) \
 [MyModuleTest Project](#mymoduletest-project) \
 [Usage](#Usage)
 

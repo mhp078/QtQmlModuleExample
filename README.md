@@ -5,10 +5,15 @@ In this example, we use qml modules in another project.
 
 Cmake is used in this library.
 
+[MyModule Project](#mymodule-project) \
+[MyModuleTest Project](#mymoduletest-project) \
+[Usage](#Usage)
+
 
 # MyModule Folder
 
 In this folder there are qml files that are supposed to be added as modules to our project.
+
 # MyModuleTest Project
 
 We do the following in the relevant files.

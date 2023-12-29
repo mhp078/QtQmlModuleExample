@@ -1,7 +1,7 @@
 
 # Qt Qml Module Sample
 
-In this sample, we use qml modules in another project.
+In this project, we use qml modules in another project.
 
 Cmake is used in this library.
 
